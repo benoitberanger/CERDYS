@@ -353,7 +353,7 @@ function button_start_block_dev_Callback(hObject, eventdata, handles)
 
 %- Get properties of block
 block_pause     = str2double(get(handles.text_block_dev_pause,'String'));
-block_N_trials  = str2double(get(handles.text_block_dev_N_trials,'String'));
+% block_N_trials  = str2double(get(handles.text_block_dev_N_trials,'String'));
 block_N_repeats = str2double(get(handles.text_block_dev_N_repeats,'String'));
 
 %- Experimental parameters

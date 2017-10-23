@@ -570,7 +570,7 @@ if flag_input_mode == 3 || flag_input_mode == 5
             
         end
     else
-        pause(par_general.block_pause);
+%         pause(par_general.block_pause);
     end
 end
 

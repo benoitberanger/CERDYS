@@ -1,7 +1,7 @@
 # MATLAB
 *.asv
 *.m~
-*.fig
+#*.fig
 *.mat
 
 # Octave

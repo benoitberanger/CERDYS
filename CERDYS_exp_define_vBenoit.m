@@ -93,6 +93,7 @@ paradigm = [
 % paradigm = [ 
 % 5 0
 % 10 baseAngle*startingSign
+% 10 baseAngle*startingSign*(-1)
 % 5 0
 % ];
 
